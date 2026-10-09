@@ -1,0 +1,13 @@
+torch>=2.4.0
+transformers>=4.46.0
+datasets>=3.0.0
+accelerate>=0.34.0
+peft>=0.13.0
+bitsandbytes>=0.44.0
+trl>=0.11.0
+torchao>=0.16.0
+gradio>=4.44.0
+pandas>=2.2.0
+rouge-score>=0.1.2
+sacrebleu>=2.4.0
+bert-score>=0.3.13
